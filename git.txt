@@ -1,0 +1,7 @@
+Como ter fácil acesso a 
+todo o histórico de um arquivo pode torná-lo um 
+programador mais eficiente no longo prazo?
+
+Ele pode acessar as versões anteriores para corrigir 
+possíveis erros que possam ocorrer no sistema quando for
+alterá-lo.
